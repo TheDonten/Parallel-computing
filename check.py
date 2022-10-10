@@ -39,5 +39,6 @@ if (squareRootExists(n, p) == True):
     print("Yes")
 else:
     print("No")
+    print("Biba")
 
 # This code is contributed by Rajput-Ji
